@@ -4,7 +4,7 @@ import Card from "../components/Card";
 import Features from "../components/Features";
 import Fulloffun from "../components/Fulloffun";
 import Jackpotjoey from "../components/Jackpotjoey";
-import Cashback from "../components/cashback";
+import Cashback from "../components/Cashback";
 import Joincommunity from "../components/Joincommunity";
 
 function Home() {
