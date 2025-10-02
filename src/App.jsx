@@ -17,7 +17,7 @@ function App() {
        <Routes>
         <Route path='/' index={true} element={<Home />}></Route>
         <Route path='/privacy-policy'  element={<CookiePolicy />}></Route>
-        <Route path='/game'  element={<Game />}></Route>
+        <Route path='/game/:id'  element={<Game />}></Route>
        </Routes>
       <Footer />
     </>
